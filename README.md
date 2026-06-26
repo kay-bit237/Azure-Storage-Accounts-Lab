@@ -157,13 +157,25 @@ As a SOC Analyst, understanding Azure Storage is directly relevant to threat det
 ## 📸 Screenshots
 
 ### Storage Account Created
-![Storage Account Overview](assets/storage-account-overview.png)
+
+
+<img width="1344" height="596" alt="Screenshot 2026-06-04 22 39 45" src="https://github.com/user-attachments/assets/7e032270-b6c1-4495-bfe7-d459b77bb571" />
+
+
 
 ### Redundancy Configuration
-![Redundancy Settings](assets/redundancy-settings.png)
+
+
+<img width="1344" height="596" alt="Screenshot 2026-06-04 22 35 37" src="https://github.com/user-attachments/assets/3090ccf2-9599-40b5-bd77-cc08ef283df7" />
+
+
 
 ### Security Settings
-![Security Configuration](assets/security-settings.png)
+
+
+<img width="1344" height="596" alt="Screenshot 2026-06-04 22 36 57" src="https://github.com/user-attachments/assets/b7c27004-ead7-42a8-a0e1-9920e0720dbd" />
+
+
 
 ---
 
